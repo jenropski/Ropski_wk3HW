@@ -1,0 +1,17 @@
+/* =============
+  section-1
+============= */
+
+#section-1{
+
+    img{
+
+        width: 50%;
+    }
+}
+
+#VisitLondon{
+
+  text-align: left;
+  color: white;
+}

@@ -280,6 +280,46 @@
 		"oS": 0,
 		"uL": 1
 		},
+	"/dev/scss/sections/_section-1": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-1",
+		"oF": 0
+		},
+	"/dev/scss/sections/_section-2": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-2",
+		"oF": 0
+		},
+	"/dev/scss/sections/_section-3": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-3",
+		"oF": 0
+		},
+	"/dev/scss/sections/_section-4": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-4",
+		"oF": 0
+		},
+	"/dev/scss/sections/_section-5": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 1,
+		"oAP": "/dev/scss/sections/_section-5",
+		"oF": 0
+		},
 	"/dev/scss/styles.scss": {
 		"aP": 0,
 		"bl": 0,
