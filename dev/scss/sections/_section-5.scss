@@ -1,21 +1,20 @@
 /* =============
-    Section 5
+    Section 5 
 ============= */
-
 #section-5{
-    display: grid;
+    aside{
+        img{
+            width: 100%;  
+          }
+    }
+
+    #section-5-container{
+        display: grid;
     grid-template-columns: 15px auto 15px;
     grid-template-areas: ". section-5 .";
+    }
 
-    ul{
+    #section-5-content{
         grid-area: section-5;
-        display: grid;
-        gap:20px;
-
-        li{
-            img{
-                width: 100%;
-            }
-        }
     }
 }

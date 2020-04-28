@@ -1,15 +1,16 @@
 /* =============
-    Section 4
+    Section 4 
 ============= */
 #section-4{
     display: grid;
+
     ul{
-        grid area:
-    section-4;
-            display: grid;
-            gap:20px;
-    
+        grid-area: section-4;
+        display: grid;
+        gap:20px;
     }
+
+
     img{
         width: 100%;
     }
