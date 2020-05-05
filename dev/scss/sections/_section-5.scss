@@ -2,19 +2,54 @@
     Section 5 
 ============= */
 #section-5{
-    aside{
-        img{
-            width: 100%;  
-          }
-    }
-
-    #section-5-container{
-        display: grid;
+    display: grid;
     grid-template-columns: 15px auto 15px;
     grid-template-areas: ". section-5 .";
+
+    @include md{
+        grid-template-columns: 15% auto 15%;
     }
 
-    #section-5-content{
-        grid-area: section-5;
+    @include lg{
+        grid-template-columns: 15px auto 50px;
+        grid-template-areas: ". section-5 .";
     }
+    
+
+#section-6-content{
+    grid-area: section-6;
+    text-align: justify;
+    img{
+        width: 100%;
+    }
+
+
+    @include lg{
+        display: grid;
+        grid-template-columns: 50% auto;
+        grid-template-areas: 
+        "img ."
+        "img text"
+        "img .";
+    }
+}
+
+#section-6-img {
+
+    @include md{
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+
+    @include lg{
+        grid-area: img;
+    }
+  }
+
+  #section-6-text{
+      grid-area: text;
+  }
+
 }

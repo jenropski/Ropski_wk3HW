@@ -35,7 +35,18 @@
 		"oAP": "/deploy/img/section-1/heroimg.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-1/heroimg.png": {
+		"ft": 32768,
+		"iS": 153365,
+		"oA": 0,
+		"oAP": "/deploy/img/section-1/heroimg.png",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/deploy/img/section-2/hero2img.jpg": {
@@ -46,7 +57,18 @@
 		"oAP": "/deploy/img/section-2/hero2img.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-2/hero2img.png": {
+		"ft": 32768,
+		"iS": 191346,
+		"oA": 0,
+		"oAP": "/deploy/img/section-2/hero2img.png",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/deploy/img/section-3/hero3img.jpg": {
@@ -57,7 +79,18 @@
 		"oAP": "/deploy/img/section-3/hero3img.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-3/hero3img.png": {
+		"ft": 32768,
+		"iS": 282369,
+		"oA": 0,
+		"oAP": "/deploy/img/section-3/hero3img.png",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/deploy/img/section-4/hero4img.jpg": {
@@ -68,7 +101,18 @@
 		"oAP": "/deploy/img/section-4/hero4img.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-4/hero4img.png": {
+		"ft": 32768,
+		"iS": 252248,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/hero4img.png",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/deploy/img/section-4/hero5img.jpg": {
@@ -79,7 +123,18 @@
 		"oAP": "/deploy/img/section-4/hero5img.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-4/hero5img.png": {
+		"ft": 32768,
+		"iS": 265373,
+		"oA": 0,
+		"oAP": "/deploy/img/section-4/hero5img.png",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/deploy/img/section-4/hero6img.jpg": {
@@ -90,7 +145,7 @@
 		"oAP": "/deploy/img/section-4/hero6img.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"/deploy/img/section-5/hero7img.jpg": {
@@ -101,7 +156,18 @@
 		"oAP": "/deploy/img/section-5/hero7img.jpg",
 		"oF": 0,
 		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"/deploy/img/section-5/hero7img.png": {
+		"ft": 32768,
+		"iS": 134862,
+		"oA": 0,
+		"oAP": "/deploy/img/section-5/hero7img.png",
+		"oF": 0,
+		"oIPL": 0,
 		"opt": 0,
+		"oT": 1,
 		"q": 100
 		},
 	"/deploy/index.html": {
@@ -130,6 +196,83 @@
 		"oA": 0,
 		"oAP": "/design/Ropski_homework.sketch",
 		"oF": 0
+		},
+	"/dev/img/section-1/heroimg.jpg": {
+		"ft": 16384,
+		"iS": 147992,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-1/heroimg.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-2/hero2img.jpg": {
+		"ft": 16384,
+		"iS": 115291,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-2/hero2img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-3/hero3img.jpg": {
+		"ft": 16384,
+		"iS": 211200,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-3/hero3img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-4/hero4img.jpg": {
+		"ft": 16384,
+		"iS": 425737,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-4/hero4img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-4/hero5img.jpg": {
+		"ft": 16384,
+		"iS": 573308,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-4/hero5img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-4/hero6img.jpg": {
+		"ft": 16384,
+		"iS": 524339,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-4/hero6img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"/dev/img/section-5/hero7img.jpg": {
+		"ft": 16384,
+		"iS": 187237,
+		"jF": 0,
+		"oA": 0,
+		"oAP": "/dev/img/section-5/hero7img.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
 		},
 	"/dev/index.kit": {
 		"cB": 0,
@@ -280,45 +423,70 @@
 		"oS": 0,
 		"uL": 1
 		},
-	"/dev/scss/sections/_section-1": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/scss/sections/_section-1.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-1",
-		"oF": 0
+		"oAP": "/dev/scss/sections/_section-1.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
-	"/dev/scss/sections/_section-2": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/scss/sections/_section-2.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-2",
-		"oF": 0
+		"oAP": "/dev/scss/sections/_section-2.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
-	"/dev/scss/sections/_section-3": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/scss/sections/_section-3.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-3",
-		"oF": 0
+		"oAP": "/dev/scss/sections/_section-3.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
-	"/dev/scss/sections/_section-4": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/scss/sections/_section-4.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-4",
-		"oF": 0
+		"oAP": "/dev/scss/sections/_section-4.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
-	"/dev/scss/sections/_section-5": {
-		"cB": 0,
-		"ft": 8192,
-		"hM": 0,
+	"/dev/scss/sections/_section-5.scss": {
+		"aP": 0,
+		"bl": 0,
+		"dP": 10,
+		"dS": 0,
+		"ft": 4,
+		"ma": 0,
 		"oA": 1,
-		"oAP": "/dev/scss/sections/_section-5",
-		"oF": 0
+		"oAP": "/dev/scss/sections/_section-5.css",
+		"oF": 0,
+		"oS": 0,
+		"uL": 1
 		},
 	"/dev/scss/styles.scss": {
 		"aP": 0,
